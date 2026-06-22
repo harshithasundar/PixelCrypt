@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+encrypted.png
+decrypted.png
+
+.vscode/
